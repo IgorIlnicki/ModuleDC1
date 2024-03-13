@@ -1,1 +1,1 @@
-Hello, Docker
+print(f"Hello, Docker")
